@@ -17,5 +17,6 @@
         super(SavingsAccount);
         this.PremiumAccount = 0.10;
     }
+# -------------------------------------------------------------
 # oxiri moshina zavotdan chiqishidan ldin @Override qilininadi chunki moshina qayeridur qatiq qatirlmagani yoki ishkameydigon joyni topish uchun @Override bo'lmasa error xato berdi o'zida method da chunki tekshiruvdan o'tmagan bo'ladi 
 # oxiri esa moshina do'konlariga oborib moshinalar joyiga joylaydi is - a BMW , Audi turimi >> Ha bo'lsa yoniga qo'yilida yo'q bo'lsa BMW moshinalar joyiga qo'yadi 
