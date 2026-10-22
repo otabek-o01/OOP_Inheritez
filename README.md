@@ -19,7 +19,7 @@
     
     }
 # -------------------------------------------------------------
-# keyin moshina ichiga bolt gaykalar qo'yiladi lekin ota klass bu ko'rmaydi chunki bu moshinani ichida turadi ha protecd esa maytafoni o'rindig'i va boshqa joylarini ota klass ko'radi 🟢
+# keyin moshina ichiga bolt gaykalar qo'yiladi lekin ota klass bu ko'rmaydi chunki privite bu moshinani ichida turadi ha protecd esa maytafoni o'rindig'i va boshqa joylarini ota klass ko'radi 🟢
 # -------------------------------------------------------------
     public abstract class  BankAccount {
             protected double SavingsAccount;
