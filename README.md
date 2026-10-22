@@ -15,6 +15,10 @@
 # -------------------------------------------------------------
 # keyin extends qilib zapchaslardi joylashtiradi 
 # -------------------------------------------------------------
+    public class AccoutBank extends BankAccount {
+    
+    }
+# -------------------------------------------------------------
 # keyin moshina ichiga bolt gaykalar qo'yiladi lekin ota klass bu ko'rmaydi chunki bu moshinani ichida turadi ha protecd esa maytafoni o'rindig'i va boshqa joylarini ota klass ko'radi 
 # -------------------------------------------------------------
     public abstract class  BankAccount {
@@ -31,5 +35,10 @@
 # -------------------------------------------------------------
 # oxiri moshina zavotdan chiqishidan ldin @Override qilininadi chunki moshina qayeridur qatiq qatirlmagani yoki ishkameydigon joyni topish uchun @Override bo'lmasa error xato berdi o'zida method da chunki tekshiruvdan o'tmagan bo'ladi 
 # -------------------------------------------------------------
+    @Override
+    public double calculator() {
+        return SavingsAccount * PremiumAccount;
+    }
+# ------------------------------------------------------------
 # oxiri esa moshina do'konlariga oborib moshinalar joyiga joylaydi is - a BMW , Audi turimi >> Ha bo'lsa yoniga qo'yilida yo'q bo'lsa BMW moshinalar joyiga qo'yadi
 # -------------------------------------------------------------
