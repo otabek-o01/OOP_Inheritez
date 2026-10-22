@@ -1,10 +1,10 @@
 # Java OOP 
 # Uyga vazifa inhertizdan misol ishlab kelish 
 # Founder : Rahimjonov Otabek
-# 
+# 🟢
 # Year : 18.11.2009
 # Nomer : 91 132 11 18 
-#
+# 🟢
 # Mavzu haqida qisqacha tushuntirish 🟢 >>>>> 
 # -------------------------------------------------------------
 # Inheritz bir bola  bu meros ota klass qilib oladi ularni qayta yozmasdan ishlata olish muqolbildir🟢
