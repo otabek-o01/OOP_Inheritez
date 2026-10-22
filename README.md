@@ -11,6 +11,7 @@
 # birinchi bo'lib mashinaga kerakli zapchaslar olib kelinadi bu ota klass bo'ladi 
 # keyin extends qilib zapchaslardi joylashtiradi 
 # keyin moshina ichiga bolt gaykalar qo'yiladi lekin ota klass bu ko'rmaydi chunki bu moshinani ichida turadi ha protecd esa maytafoni o'rindig'i va boshqa joylarini ota klass ko'radi 
+# -----------------------------------------------------------------------------------------------------------------------------
 # O'rtasiga kelganda super () key bilan chaqirilib oladi hama joyi to'g'rimi deb yoki super.CarMake() key bilan murojat qiladi 
      public BankPremium(double SavingsAccount) {
         super(SavingsAccount);
